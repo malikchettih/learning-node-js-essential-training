@@ -1,2 +1,2 @@
-# learning-ode-js-essential-training
+# learning-node-js-essential-training
 LinkedIn Learning - Node.js Essential Training
